@@ -1,0 +1,12 @@
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\bin\Debug\net6.0\CollectionsAndLinq.BL.deps.json
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\bin\Debug\net6.0\CollectionsAndLinq.BL.dll
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\bin\Debug\net6.0\CollectionsAndLinq.BL.pdb
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.csproj.AssemblyReference.cache
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.AssemblyInfoInputs.cache
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.AssemblyInfo.cs
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.dll
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\refint\CollectionsAndLinq.BL.dll
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.pdb
+D:\Programming\C#\Binary Studio Academy\LinqProject\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\ref\CollectionsAndLinq.BL.dll
